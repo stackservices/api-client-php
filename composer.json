@@ -1,0 +1,15 @@
+{
+  "name": "StackCDN/api-client-php",
+  "type": "library",
+  "description": "StackCDN API Client",
+  "version": "0.0.1",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "StackCDN\\APIClient\\": "src"
+    }
+  }
+
+}

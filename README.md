@@ -2,7 +2,7 @@
 
 ### You can clone from GitHub
 ```
-$ git clone git@github.com:StackCDN/api-client-php.git
+$ git clone git@github.com:stackservices/api-client-php.git
 ```
 
 Include necessary files in your php script
@@ -22,7 +22,7 @@ Create composer.json like following
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:StackCDN/api-client-php.git"
+            "url": "git@github.com:stackservices/api-client-php.git"
         }
     ]
 }

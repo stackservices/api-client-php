@@ -5,7 +5,7 @@ include_once __DIR__ . '/../src/APIClient.php';
 $client = new \StackCDN\APIClient();
 
 $email      = 'YOUR_EMAIL';
-$password   = 'YOUR_PASSWORD';
+$password   = 'YOUR_PASSWORD';  
 
 $client->login($email, $password);
 $token = $client->getAuthorizationToken();

@@ -45,7 +45,7 @@ try {
         "unit_price" => 0.05,
 
         # Optional parameters below
-        "comments" => "Bucket is created from SugarCRM",
+        "comments" => "Bucket is created from Third Party CRM",
         "unit_price__EU" => 0.03,
         "unit_price__NA" => 0.03,
         "unit_price__AS" => 0.07,
